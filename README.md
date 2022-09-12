@@ -1,10 +1,14 @@
 # EcoleDirecteAPI
-![npm](https://img.shields.io/npm/dt/@asgarrrr/ecoledirecteapi?color=red&label=NPM%20downloads)
+[![npm](https://img.shields.io/npm/dt/@asgarrrr/ecoledirecteapi?color=red&label=NPM%20downloads "npm")](https://www.npmjs.com/package/@asgarrrr/ecoledirecteapi)
+
+Simplification of the extraction of information from "Ecole Directe" ( French Online Student Tracking Space ).
+
+## Installation
 
 ```bash
-npm install @asgarrrr/ecoledirecteapi
+npm install api-ecoledirecte --save
 ```
-Simplification of the extraction of information from "Ecole Directe" ( French Online Student Tracking Space ).
+
 
 ## Features
 - Access to Student and Family Accounts
